@@ -8,3 +8,5 @@ Understand how Swift optionals, closures, collections, classes, structs and prot
 Create Actions and Outlets with extremely high proficiency
 Use a UIActivityViewController to share media with Facebook, Twitter, SMS, and Email
 Describe the delegate pattern and give a full account of its importance and uses in iOS classes
+
+<img src="https://github.com/Nora-almansour/Meme_version1.0/blob/master/Screen%20Shot%201440-03-18%20at%2011.09.58%20PM.png" width="250" height="450"> <img src="https://github.com/Nora-almansour/Meme_version1.0/blob/master/Screen%20Shot%201440-03-18%20at%2011.09.42%20PM.png" width="250" height="450" > <img src="https://github.com/Nora-almansour/Meme_version1.0/blob/master/Screen%20Shot%201440-03-18%20at%2011.09.48%20PM.png" width="250" height="450" >
